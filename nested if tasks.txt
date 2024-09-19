@@ -1,0 +1,24 @@
+Tasks:-
+nested if:-
+
+1. Loan Eligibility Checker based on age, income, and credit score
+
+Conditions:
+1. must be above 18 years
+2. income must be above 40000
+3. credit score must be above 720
+(get three inputs from the user!)
+
+if any condition fails to meet, print loan declined with reason for decline!
+
+
+2. You need to classify a number based on whether it is positive, negative, or zero. If the number is positive, further check if it is even or odd. If it is negative, also determine if it is even or odd. If the number is zero, simply identify it as zero.
+
+3. You need to determine the weather condition based on the temperature. If the temperature is above 30 degrees, it's considered hot, and if it's above 35 degrees, you should advise staying hydrated. If the temperature is below 15 degrees, it's considered cold, and if it's below 5 degrees, you should advise wearing warm clothes. If the temperature is between 15 and 30 degrees, it’s considered moderate.
+
+4. You need to classify a student's exam grade based on their score. If the score is 90 or above, the grade is "A". If the score is between 80 and 89, the grade is "B". If the score is between 70 and 79, the grade is "C". If the score is between 60 and 69, the grade is "D". Any score below 60 results in an "F".
+
+
+#match case:
+
+Demostrate a pizza shop using match case and nested if-else:-

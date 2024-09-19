@@ -1,0 +1,24 @@
+Tasks on Map, Filter, Reduce, Accumulate
+
+l = [1,2,3,4,5,6,7,8,9,10]
+
+1. find the squares of all items from the list
+2. filter even and odd numbers from the list
+3. map "even" on even numbers and "odd" for odd numbers in the list
+4. find the product of all numbers from the list
+6. find the cummulative difference of all items in the list
+
+words = ['apple', 'banana', 'cherry']
+
+5. Convert List of Strings to Uppercase using map
+
+words = ['apple', 'banana', 'cherry', 'blueberry', 'kiwi']
+
+6. Filter Words Starting with "b"
+
+7. find the factorial of a number using reduce
+8. filter prime numbers from the list
+
+
+
+

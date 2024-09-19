@@ -1,0 +1,4 @@
+1. find the duplicate words from a string sentence = "Python is great and Python is easy to learn"
+2. try all methods and operators in set
+3. remove duplicates from a list
+4. check whether two words are anagram

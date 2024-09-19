@@ -1,0 +1,11 @@
+1. Print 2 table using for loop
+2. Print the sum of list using for loop e.g, l = [1,2,3,4,5,6,7,8]
+3. print the length of a string using for loop
+4. print the product of list using for loop
+5. print the factorial of a number : hint (5*4*3*2*1)
+e.g, n = 5, result = 120 
+
+6. print all the even and odd numbers using loop
+7. print all the characters of string separately
+8. iterate through a list and print even and odd respectively
+9. print the vowels from the string

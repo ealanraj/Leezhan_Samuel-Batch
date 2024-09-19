@@ -1,0 +1,15 @@
+Tasks:-
+1. Print upto 5th Multiplication Table using nested for loop
+2. print upto 5th table using nested while loop
+3. Use nested loop (use control statements):
+	* skip the odd numbers
+	* break if number exceeds 15
+	* pass when number is 12
+
+4. find whether the given number is a prime number?
+
+5. Print patterns
+	 1. right angled triangle
+	 2. left angled triangle
+	 3. half diamond 
+	 4. full diamond 

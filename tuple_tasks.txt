@@ -1,0 +1,7 @@
+1. Swap first and last elements
+2. count the repeated items
+3. find the index of the most repeated item
+4. sum  of items of tuple
+5. product of items?
+6. find the maximum value?
+7. find the minimum value?

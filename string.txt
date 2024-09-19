@@ -1,0 +1,60 @@
+String Tasks:-
+1.Count Vowels in a String
+Use a loop to count the number of vowels (a, e, i, o, u) in a string.
+
+2.Reverse a String
+Use a loop to reverse a given string.
+
+3.Count Occurrences of a Character
+Count the number of times a specific character appears in a string using a loop.
+
+4.Remove Duplicates from a String
+Remove duplicate characters from a string using a loop.
+
+5.Check if a String is a Palindrome
+Use a loop to check if a string reads the same forwards and backwards.
+
+6.Count Words in a String
+Use a loop to count the number of words in a string (words are separated by spaces).
+
+7.Capitalize the First Letter of Each Word
+Use a loop to capitalize the first letter of each word in a string.
+
+8.Find the Longest Word in a String
+Use a loop to find the longest word in a string.
+
+9.Count Uppercase and Lowercase Letters
+Count the number of uppercase and lowercase letters in a string using a loop.
+
+10.Replace All Spaces with Underscores
+Use a loop to replace all spaces in a string with underscores.
+
+11.Check if All Characters in a String are Alphanumeric
+Use a loop to check if all characters in a string are either letters or numbers.
+
+12.Remove Punctuation from a String
+Use a loop to remove all punctuation marks from a string.
+
+13.Count the Number of Digits in a String
+Use a loop to count the number of digits in a string.
+
+14.Find All Indices of a Character in a String
+Use a loop to find and print all the indices where a character appears in a string.
+
+15.Reverse Each Word in a String
+Use a loop to reverse each word in a string individually.
+
+16.Count the Number of Spaces in a String
+Use a loop to count the number of spaces in a string.
+
+17.Print the Frequency of Each Character in a String
+Use a loop to print the frequency of each character in a string.
+
+18.Remove All Whitespace from a String
+Use a loop to remove all whitespace characters (spaces, tabs, etc.) from a string.
+
+19.Alternate Case Conversion
+Use a loop to convert a string such that every alternate character is uppercase.
+
+20.Find Words Starting with a Specific Letter
+Use a loop to find and print all words in a string that start with a specific letter.
